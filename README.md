@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Timer Running - Speed 2X](screenshots/_timerscreen_2.png)
 ![Timer already halfway](screenshots/_timerscreen_3.png)
 ![Timer Less than 20 secs - Red](screenshots/_timerscreen_4.png)
-![Time Up](screenshots/_timerscreen_5 .png)
+![Time Up](screenshots/_timerscreen_5.png)
 
 ## Available Scripts
 
